@@ -7,3 +7,7 @@
 **Digital Ocean - Server Setup**
 * Initial Ubuntu Setup: https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
 * Setting up Node.js Application for Production: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-14-04  
+
+**Useful Terminal Commands**
+* **scp** - Copy File from Remote to Desktop and Vice Versa: http://www.howtogeek.com/66776/how-to-remotely-copy-files-over-ssh-without-entering-your-password/
+  * Command is: *scp root@IP_ADDRESS:PATH_TO_FILE COPIED_FILE_NAME.txt*
