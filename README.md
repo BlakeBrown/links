@@ -13,8 +13,8 @@
   * *wget https://nodejs.org/download/release/latest/node-v4.1.2.tar.gz* downloads latest version of node
 
 **Useful Emmet Commands** 
-  *ctrl+shift+g = Wrap with Abbreviation
-    *div.name-of-class will wrap with a class
+  * ctrl+shift+g = Wrap with Abbreviation
+    * div.name-of-class will wrap with a class
 
 
 **Useful Math**
