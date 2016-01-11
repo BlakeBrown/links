@@ -7,9 +7,9 @@
 * Basics of Markdown: https://help.github.com/articles/markdown-basics/
 * Github Specific: https://help.github.com/articles/github-flavored-markdown/
 
-**Digital Ocean - Server Setup**
-* Initial Ubuntu Setup: https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
-* Setting up Node.js Application for Production: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-14-04  
+**Server Setup**
+* https://doesnotscale.com/deploying-node-js-with-pm2-and-nginx/
+* Initial Ubuntu Setup (Digital Ocean): https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
 
 **Useful Terminal Commands**
 
