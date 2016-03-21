@@ -19,6 +19,7 @@
 
 * **wget** - Retrieves/downloads the content at a specified url 
   * *wget https://nodejs.org/download/release/latest/node-v4.1.2.tar.gz* downloads latest version of node
+  * *wget -r -nd --no-parent --reject "index.html\*" http://mysite.com/configs/.vim/* gets all files recursively at url
 
 **Useful Instalation Commands**
   * ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
