@@ -1,7 +1,15 @@
 # Links
 
 **Data Structures & Algorithms**
-* Big O Cheat Sheet: http://bigocheatsheet.com/
+  * Big O Cheat Sheet: http://bigocheatsheet.com/
+  * Graph representations: http://www.geeksforgeeks.org/graph-and-its-representations/
+  * Prim's Algorithm w/ Adjacency Matrix O(V^2)
+    * http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-mst-for-adjacency-list-representation/
+  * Prim's w/ Adjacency List + Binary Heap - O(ElogV)
+    * http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-mst-for-adjacency-list-representation/
+  * Kruskal's Algorithm -  O(ElogE) or O(ElogV), since E is at most V(V-1) = O(V^2)
+    * http://www.geeksforgeeks.org/greedy-algorithms-set-2-kruskals-minimum-spanning-tree-mst/
+
 
 **Useful Terminal Commands**
 
