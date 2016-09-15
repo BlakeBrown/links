@@ -21,7 +21,7 @@
   * *wget https://nodejs.org/download/release/latest/node-v4.1.2.tar.gz* downloads latest version of node
   * *wget -r -nd --no-parent --reject "index.html***" http://mysite.com/configs/.vim/* gets all files recursively at url
 
-**Useful Instalation Commands**
+**Useful Installation Commands**
   * ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
     * Allows you to run "sublime my_file.txt" from terminal to open a file with sublime 
     * See: http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/ for more details 
