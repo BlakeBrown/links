@@ -11,3 +11,6 @@
 
 **Bitwise Operations**
 * Bit Twiddling Hacks: http://www.graphics.stanford.edu/~seander/bithacks.html
+
+**Amazing Favicon Generator**
+* https://realfavicongenerator.net/
